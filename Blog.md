@@ -4,4 +4,10 @@ LocalStorage was the one of the great features introduced to modern browsers whe
 
 ## Tutorial ## 
 ### Getting Started ###
-To begin, you'll need to have a coding environment. Visual Studio Code is my go-to but really any code environment where you can manipulate HTML and JavaScript files will do. To begin using local storage, we'll create an HTML File with some basic elements that we can manipulate. Follow the tutorial [here]().
+To begin, you'll need to have a coding environment. Visual Studio Code is my go-to but really any code environment where you can manipulate HTML and JavaScript files will do. To begin using local storage, we'll create an HTML File with some basic elements that we can manipulate. Follow the tutorial [here](https://github.com/Benni371/Blog-Tutorial.git).
+
+## Resources ##
+dcode. “Storing Objects with Local Storage in JavaScript.” YouTube, YouTube, 20 Feb. 2018, https://www.youtube.com/watch?v=AUOzvFzdIk4. 
+“Local Storage.” Local Storage | HTML Dog, https://htmldog.com/guides/javascript/advanced/localstorage/. 
+“Window LocalStorage Property.” Window Localstorage Property, W3Schools, https://www.w3schools.com/jsreF/prop_win_localstorage.asp. 
+https://stackoverflow.com/questions/5410820/how-can-i-show-all-the-localstorage-saved-variables
