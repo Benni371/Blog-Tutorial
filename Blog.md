@@ -1,0 +1,7 @@
+# LocalStorage, A Genius Way to Store Local Data #
+## Introduction ##  
+LocalStorage was the one of the great features introduced to modern browsers when HTML 5 came out. Unlike session storage, local storage does not get erased even if the browser is later closed. To compare it to something more relatable, localStorage is in a way a cousin to browser cookies. Unlike LocalStorage, cookies operate on the server-side and have an expiration date(usually when the browser is closed unless otherwise specified). The advantages of using LocalStorage truly shine when the client data is the focus of the website. Not only does it not expire but browsers allocate around 5MB for Local Storage compared to the 4kb allocated for cookies. In this tutorial, we'll discuss the benefits of using local storage as well as how to use it to store data on your website.
+
+## Tutorial ## 
+### Getting Started ###
+To begin, you'll need to have a coding environment. Visual Studio Code is my go-to but really any code environment where you can manipulate HTML and JavaScript files will do. To begin using local storage, we'll create an HTML File with some basic elements that we can manipulate. Follow the tutorial [here]().
